@@ -1,4 +1,4 @@
-![MasterHead](https://webwizard360.com/wp-content/uploads/2022/09/DevOps.jpg)
+![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif)
 
 <h1 align="center">Hi 👋, I'm MD. BELAL ISLAM</h1>
 <h3 align="center">A passionate DevOps Engineer from Bangladesh</h3>
