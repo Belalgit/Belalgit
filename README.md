@@ -1,4 +1,4 @@
-![MasterHead](https://eaglewebs.co.uk/wp-content/uploads/2020/06/devops.jpg)
+![MasterHead](https://webwizard360.com/wp-content/uploads/2022/09/DevOps.jpg)
 
 <h1 align="center">Hi 👋, I'm MD. BELAL ISLAM</h1>
 <h3 align="center">A passionate DevOps Engineer from Bangladesh</h3>
