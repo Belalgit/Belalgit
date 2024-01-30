@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belalgit&label=Profile%20views&color=0e75b6&style=flat" alt="belalgit" /> </p>
 
-- 🔭 I’m currently working on [AWS Docker Project](https://github.com/Belalgit/DockerProject.git)
+- 🔭 I’m currently working on [Terraform Project Using AWS-EKS](https://github.com/Belalgit/TerraformProjectUsingAWS-EKS.git)
 
-- 🌱 I’m currently learning **Ansible, Jenkins**
+- 🌱 I’m currently learning **Kubernetes, Jenkins**
 
 - 💬 Ask me about **Virtualization, AWS services, Docker, Container, DNS, Networking, Infrastructure**
 
