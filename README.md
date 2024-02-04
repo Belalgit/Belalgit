@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belalgit&label=Profile%20views&color=0e75b6&style=flat" alt="belalgit" /> </p>
 
-- 🔭 I’m currently working on [Terraform Project Using AWS-EKS](https://github.com/Belalgit/TerraformProjectUsingAWS-EKS.git)
+- 🔭 I’m currently working on [CICD for Docker Kubernetes using Jenkins](https://github.com/Belalgit/cicd-kube-docker-project.git)
 
 - 🌱 I’m currently learning **Kubernetes, Jenkins**
 
-- 💬 Ask me about **Virtualization, AWS services, Docker, Container, DNS, Networking, Infrastructure**
+- 💬 Ask me about **Kubernetes, AWS services, Docker, Container, DNS, Networking, Infrastructure**
 
 - 📫 How to reach me **belaluiu15@gmail.com**
 
